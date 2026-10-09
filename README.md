@@ -1,6 +1,6 @@
 # Hate Speech Detection using NLP
 ---
-<img src="demo.gif" width="300" alt="Alt Text" />
+<img src="demo.gif" width="500" alt="Alt Text" />
 
 ---
 ## Project Overview
